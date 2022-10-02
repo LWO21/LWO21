@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LWO21/ Luiz Walters 
 - 👀 I’m interested in how data has changed our life and Netflix!
-- 🌱 I’m currently learning Phyton adn SQL
+- 🌱 I’m currently learning Phyton!
 - 💞️ I’m looking to collaborate on Data Analytics 
 - 📫 How to reach me: luizotavio.vitor@hotmail.com
 
